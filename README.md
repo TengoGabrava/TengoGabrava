@@ -7,4 +7,4 @@ I like testing different Linux distros and playing with bash scripting to automa
 Skills: bash/CISCO networking/Mikrotik/Linux server
 
 - 🔭 I’m currently working on my home lab.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TengoGabrava&show_icons=true&theme=radical)
