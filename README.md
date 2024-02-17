@@ -1,8 +1,4 @@
 ### Hello, my name is Tengo
-#### I am a NOC Engineer and The Linux guy :D
-![I am a NOC Engineer and The Linux guy :D]
-
-I like testing different Linux distros and playing with bash scripting to automate some Linux packages' installation and functioning.
 
 Skills and experience:
 💻 Linux/Windows
